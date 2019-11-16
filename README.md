@@ -24,6 +24,13 @@ myFortune [port | -h]
 
 If you don't specify any arguments, the default port will be 60060.
 
+# Real Test
+$> nc localhost 60060
+
+”Live as if you were to die tomorrow. Learn as if you were to live forever.”
+
+[Mahatma Gandhi]
+
 
 
 
