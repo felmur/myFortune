@@ -1,7 +1,7 @@
 # myFortune
 "Fortune" server with a lot of quotes, written in pure c++.
 
-# myFortune
+# Overview
 A "Fortune" server written in pure c++
 
 (c) 2019 by Felice Murolo, all rigths reserved
