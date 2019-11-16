@@ -1,3 +1,12 @@
+/*
+ * myFortune
+ * A "Fortune" server written in pure c++
+ * (c) 2019 by Felice Murolo, all rigths reserved
+ * Licensed under LGPL V 3.0
+ * Location: Salerno, Italia
+ * email: linuxboy@giove.tk
+ */
+
 #ifndef APPLICATION_H
 #define APPLICATION_H
 

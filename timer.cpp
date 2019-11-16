@@ -1,5 +1,3 @@
-#include "timer.h"
-
 /*
  * myFortune
  * A "Fortune" server written in pure c++
@@ -8,7 +6,7 @@
  * Location: Salerno, Italia
  * email: linuxboy@giove.tk
  */
-
+#include "timer.h"
 
 Timer::Timer(){
 
