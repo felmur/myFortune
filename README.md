@@ -3,9 +3,13 @@
 
 # myFortune
 A "Fortune" server written in pure c++
+
 (c) 2019 by Felice Murolo, all rigths reserved
+
 Location: Salerno, Italia
+
 Licensed under LGPL V 3.0
+
 
 # Compilation
 $> cmake .
